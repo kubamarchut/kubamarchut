@@ -1,5 +1,14 @@
-### Hi there 👋
+### Welcome! 👋 I'm Kuba, a Telecommunications student at Warsaw University of Technology deeply passionate about cutting-edge technologies and their applications.
 
+My journey has led me to delve into various fields, with a particular focus on:
+
+🤖 AI/ML: Currently enrolled in the Introduction to Artificial Intelligence course, I'm immersing myself in the realms of Artificial Intelligence and Machine Learning. Exploring algorithms enabling advanced AI processes, I'm eager to harness the power of AI to solve complex problems.
+
+🔊 Signal Processing: Collaborating with a five-student team, we developed a proof-of-concept device using Raspberry Pi Zero and an SDR module. This device showcased the practical applications of signal processing, enabling end-users to duplicate keyfobs—an experience that fueled my passion for exploring signal processing techniques.
+
+💻 FPGA: Embarking on my thesis project, I'm excited to explore the potential of FPGA technology in accelerating AI inference. With a focus on solutions like Vitis AI, I aim to leverage FPGA's parallel processing capabilities to make AI faster and more efficient.
+
+🚀 DevOps: Leveraging my expertise in DevOps practices, I've implemented robust CI/CD pipelines using Docker on platforms like GitLab and GitHub, streamlining development workflows and ensuring seamless integration and deployment processes.
 <!--
 **kubamarchut/kubamarchut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
